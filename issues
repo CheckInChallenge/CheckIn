@@ -10935,3 +10935,4 @@ KutouAkira:$flag
 nongdajun:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 HuaHuaY:${{ secrets.FLAG }}
+HuaHuaY:"; echo $flag
