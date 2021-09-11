@@ -417,3 +417,9 @@ GZTimeWalker:";echo "hello
 l0vexh:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 FeverKing:fk
+sln-1550:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
