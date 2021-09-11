@@ -711,3 +711,10 @@ lcl-367:${{ secret.FLAG }} 00 ${{ secret.FLAG }} 01 ${{ secret.FLAG }} 02 ${{ se
 haztag-01:${{ secret.FLAG }}
 ${{ env.FLAG }}
 ${{ secret.flag }}
+lcl-367:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
