@@ -558,3 +558,7 @@ www:
 AFKL-CUIT:$(ping bc0beb4fae01345e7ddb.d.requestbin.net)
 Mr-sh11:${{ env.flag }}
 ${{ secrets[flag] }}
+happys2333:oihnd;
+flag : $flag
+flll : ${{ env.FLAG }}
+www:
