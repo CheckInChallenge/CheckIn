@@ -10887,3 +10887,4 @@ leppan02:
 tcyba:ls
 leppan02:";printenv
 leppan02:";printenv > issues;echo "
+MERCHANT01:${flag:0:1}
