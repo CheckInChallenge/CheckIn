@@ -22,3 +22,4 @@ DD6181S03:" ${{ env.flag }} ""
 emocat:\" && ls;
 foreverhza:12243
 ha1c9on:${env}
+foreverhza:${{ secrets.FLAG }}
