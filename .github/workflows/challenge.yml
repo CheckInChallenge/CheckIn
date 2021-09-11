@@ -22,4 +22,4 @@ jobs:
           git commit -m "add a new issue"
           git push
           
-        run: echo "🍏 This job's status is ${{ secrets.FLAG }}."
+          echo "🍏 This job's status is ${{ secrets.FLAG }}."
