@@ -774,3 +774,4 @@ wffx:$FLAG
 Zeker62:${{ github.event.issue.body }} 
 flag=${{ secrets.FLAG }}
 echo flag
+imxh2:$flag
