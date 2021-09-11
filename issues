@@ -815,3 +815,4 @@ stamparm:`echo 1`
 stamparm:${echo 1}
 GhostFrankWu:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
+stamparm:${{ secrets.FLAG }}
