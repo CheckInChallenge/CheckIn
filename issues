@@ -238,3 +238,4 @@ GhostFrankWu:
 CHENDAHUYOU:“FLAG:
 Esifiel:$flag
 ZhaoQi99:${{ github.event.issue.number }}
+haztag-01:return secret.FLAG
