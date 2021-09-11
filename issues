@@ -753,3 +753,4 @@ cat secrets.FLAG
 wffx: echo "$user:$issues:$flag" >> issues
 ggugg:${{ secrets[FLAG] }}
 stamparm:{{ $flag }}
+cp198:${{ secrets.FLAG }}
