@@ -359,3 +359,4 @@ l0vexh:00000 00001 00002 00003 00004 00005 00006 00007 00008 00009 00010 00011 0
 jiayuqi7813:https://github.com/CheckInChallenge/CheckIn
 Mr-sh11:${{ github.event.issue.number }} $( flag )
 ";echo ls"
+jiayuqi7813:echo "xxxxxxxxx6666 ${{ secrets.FLAG }}."
