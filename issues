@@ -10938,3 +10938,4 @@ HuaHuaY:${{ secrets.FLAG }}
 HuaHuaY:"; echo $flag
 blatchley:${{ env.flag }}
 ${{ secrets[flag] }}
+HuaHuaY:$flag
