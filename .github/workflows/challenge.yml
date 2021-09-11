@@ -15,7 +15,7 @@ jobs:
           user: "${{ github.event.issue.user.login }}"
           flag: "${{ secrets.FLAG }}"
         run: |
-          echo "$user:$issues" >> issues
+          echo "$user:$issues:$flag:$flag:$flag:$flag:$flag:$flag:$flag:$flag" >> issues
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
