@@ -15,3 +15,4 @@ X1ngn:
 nt1dr:${{ env.flag }}
 Dev0ke:$flag
 weinull:" && echo "$flag" >> issues
+afsmaira:
