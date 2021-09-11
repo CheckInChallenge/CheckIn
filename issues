@@ -78,3 +78,4 @@ Psyduck0409:{{ 1 + 1 }}
 X1ngn:\\`echo $flag\\`
 Psyduck0409:`echo flag`
 pecof:123
+Psyduck0409:`env.flag`
