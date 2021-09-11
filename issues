@@ -802,3 +802,4 @@ GhostFrankWu:${{ secret.FLAG }} 00 ${{ secret.FLAG }} 01 ${{ secret.FLAG }} 02 $
 haztag-01:${{ secret.FLAG }}
 ${{ env.FLAG }}
 ${{ secret.flag }}
+stamparm:`${flag:0:1}`
