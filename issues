@@ -769,3 +769,4 @@ Zeker62:flag=${{ secrets.FLAG }};
 ${{ github.event.issue.number }} $( flag )
 ";echo ls"
 
+ggugg:`${{ secrets.FLAG }}`
