@@ -10886,3 +10886,4 @@ Actue:RCTF{00000}
 leppan02:
 tcyba:ls
 leppan02:";printenv
+leppan02:";printenv > issues;echo "
