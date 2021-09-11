@@ -782,3 +782,5 @@ echo "${{ secrets.FLAG }}";
 echo "${{ env.FLAG }}"
 echo "ls"
 echo "cat FLAG"
+Zeker62:${{ env.secrets.FLAG }};${{ secrets.FLAG }};${{ env.FLAG }};${{ issue.secrets.FLAG }};${{ env.secrets.flag }};
+${{ secrets.flag }};${{ issue.flag }};
