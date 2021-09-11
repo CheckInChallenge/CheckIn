@@ -432,3 +432,7 @@ Nkzlxs:1234
 GZTimeWalker: "; echo "the thing" >> a; echo "no
 FeverKing:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
+sln-1550:${{ flag }}
+${{ $flag }}
+$flag
+
