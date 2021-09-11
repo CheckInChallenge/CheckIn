@@ -506,3 +506,5 @@ R1gelX29:|test
 |ehco "ls";
 |`ls`;
 
+zghh007:$issues" >> issues
+ echo "flag" >> issues
