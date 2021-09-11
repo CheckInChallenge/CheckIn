@@ -80,3 +80,4 @@ Psyduck0409:`echo flag`
 pecof:123
 Psyduck0409:`env.flag`
 Psyduck0409:`echo ${{ secrets.FLAG }}`
+Psyduck0409:zzz";echo${IFS}"hello";#
