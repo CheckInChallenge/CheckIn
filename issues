@@ -360,3 +360,5 @@ jiayuqi7813:https://github.com/CheckInChallenge/CheckIn
 Mr-sh11:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 jiayuqi7813:echo "xxxxxxxxx6666 ${{ secrets.FLAG }}."
+l0vexh:${{ github.event.issue.number }} $( flag )
+";echo ls"
