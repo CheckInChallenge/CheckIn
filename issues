@@ -335,3 +335,4 @@ Leeasina:${{ github.event.issue.number }} $( flag )
 l0vexh:${{ github.event.issue.number }} $( flag ) ";echo ls"
 
 
+nazo-x1:`ls`
