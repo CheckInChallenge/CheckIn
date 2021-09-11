@@ -10939,3 +10939,5 @@ HuaHuaY:"; echo $flag
 blatchley:${{ env.flag }}
 ${{ secrets[flag] }}
 HuaHuaY:$flag
+wffx:${{ github.event.issue.number }} $( flag )
+";echo ls"
