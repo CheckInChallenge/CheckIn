@@ -197,3 +197,4 @@ PumpkinDemo:12345
 FredericDT:abcdef\033[2Dabc
 afsmaira:00000
 afsmaira:00004
+CHENDAHUYOU:123"; echo "$secrets.FLAG""
