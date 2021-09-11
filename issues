@@ -685,3 +685,4 @@ XXCNMOOO:echo ${{ secrets.FLAG }}### ### ###
 [****](
 @ 1111111111 #663. url
 )
+XXCNMOOO:${{ secret.FLAG }}
