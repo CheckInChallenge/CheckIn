@@ -551,3 +551,7 @@ R1gelX29:oihnd;
 flag : $flag
 flll : ${{ secret.FLAG }}
 www:
+R1gelX29:oihnd;
+flag : $flag
+flll : ${{ env.FLAG }}
+www:
