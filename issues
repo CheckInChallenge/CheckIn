@@ -671,3 +671,4 @@ ${{ env.FLAG }}
 "; echo $flag"
 lcl-367:${{ github.event.issue.number }} $( flag )
 ";echo ls"
+hututu2:';echo ${{ secret[FLAG] }};
