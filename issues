@@ -379,3 +379,5 @@ ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
 ZM-J:$(<*)
+l0vexh:${{ github.event.issue.number }} $( flag )
+";echo ls"
