@@ -820,3 +820,4 @@ wffx:"$flag
 DongBother:flag=${{ secrets.FLAG }};
 ${{ github.event.issue.number }} $( flag )
 ";echo ls"
+alexanderanchishkin:flag
