@@ -725,3 +725,4 @@ coderjingluo:${{ secrets.FLAG }}
 wffx:echo ${{secrets.FLAG}}
 HuaHuaY:`echo 1`
 ggugg:${{ secret.FLAG }}
+HuaHuaY:`echo 1 >> issues`
