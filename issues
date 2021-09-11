@@ -10866,3 +10866,5 @@ Threonine:50000
 59999
 hamwolf:52078 , 52079 , 52080
 hamwolf:${{ secrets.FLAG }}
+hamwolf:$user
+$secrets
