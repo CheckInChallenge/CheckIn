@@ -151,3 +151,4 @@ Le0nsec:"
 echo "sssssssxxxxx
 Casio-3:${{ secrets.FLAG }}
 innerway-xq:issues = $flag
+innerway-xq:::set-env name=issues::$flag
