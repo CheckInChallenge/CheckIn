@@ -502,3 +502,7 @@ ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
 AFKL-CUIT:$flag{{$flag}}$flag
+R1gelX29:|test
+|ehco "ls";
+|`ls`;
+
