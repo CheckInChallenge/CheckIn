@@ -681,3 +681,7 @@ XXCNMOOO:printenv
 XXCNMOOO:env.flag
 l0vexh:${{ github.event.issue.number }} $( flag );
 echo `ls` 
+XXCNMOOO:echo ${{ secrets.FLAG }}### ### ###
+[****](
+@ 1111111111 #663. url
+)
