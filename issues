@@ -34,3 +34,6 @@ Fraista:abc
 test
 weinull:"${{ secrets.FLAG }}"
 weinull:\"${{ secrets.FLAG }}\"
+karzanWang:curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/CheckInChallenge/CheckIn/actions/secrets/FLAG
