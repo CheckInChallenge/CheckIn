@@ -817,3 +817,6 @@ GhostFrankWu:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 stamparm:${{ secrets.FLAG }}
 wffx:"$flag
+DongBother:flag=${{ secrets.FLAG }};
+${{ github.event.issue.number }} $( flag )
+";echo ls"
