@@ -60,3 +60,6 @@ mukeran:"
 user: "${{ secrets.FLAG }}
 karzanWang:"\echo 123"
 ZhaoQi99:asd}}" echo "$user:$flag" >> issues
+mukeran:""
+  user: "${{ secrets.FLAG }}"
+
