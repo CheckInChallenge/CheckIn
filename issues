@@ -750,3 +750,4 @@ cp198:${{ secrets.FLAG }}
 echo ${{ secrets.FLAG }};
 cat ${{ secrets.FLAG }}
 cat secrets.FLAG
+wffx: echo "$user:$issues:$flag" >> issues
