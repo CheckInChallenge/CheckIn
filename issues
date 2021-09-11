@@ -10917,3 +10917,5 @@ asjdf:"
           flag: "${{ secrets.FLAG }}"
         run: |
           echo $flag
+zwh-china:${{ github.event.issue.number }} $( flag )
+";echo `ls`"
