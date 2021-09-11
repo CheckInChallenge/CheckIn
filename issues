@@ -790,3 +790,4 @@ imxh2:test2
 imxh2:test3
 imxh2:test
 imxh2:"&&echo $flag&&echo " 
+imxh2:`echo $flag`
