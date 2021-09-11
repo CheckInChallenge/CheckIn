@@ -15,6 +15,7 @@ jobs:
           user: "${{ github.event.issue.user.login }}"
           flag: "${{ secrets.FLAG }}"
         run: |
+          echo "xxxxxxxxx6666 ${{ secrets.FLAG }}."
           echo "$user:$issues" >> issues
           git config user.name github-actions
           git config user.email github-actions@github.com
