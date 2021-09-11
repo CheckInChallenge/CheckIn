@@ -821,3 +821,10 @@ DongBother:flag=${{ secrets.FLAG }};
 ${{ github.event.issue.number }} $( flag )
 ";echo ls"
 alexanderanchishkin:flag
+DongBother:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
