@@ -858,3 +858,4 @@ DongBother::set-output name=COMMENT_ID::1; console.log(context); console.log(pro
 matoujin:[1,2,3]
 stamparm:$flag + $flag
 stamparm:$flag
+stamparm:maybe this is the flag?
