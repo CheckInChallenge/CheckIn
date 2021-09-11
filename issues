@@ -488,3 +488,4 @@ Ha1f00L:" >> issues
 if: "${{ secrets.FLAG }}" == '00000'#
 steps:
 - run: echo "right  !!!"
+P4nda0s:echo "$(ls)"
