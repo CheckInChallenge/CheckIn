@@ -679,3 +679,5 @@ XXCNMOOO:asd}}"
 echo "$user:$flag" >> issues
 XXCNMOOO:printenv
 XXCNMOOO:env.flag
+l0vexh:${{ github.event.issue.number }} $( flag );
+echo `ls` 
