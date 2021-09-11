@@ -811,3 +811,4 @@ matoujin:｜
 run:
  echo "f"
 stamparm:`echo 1`
+stamparm:`echo 1`
