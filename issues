@@ -362,3 +362,10 @@ Mr-sh11:${{ github.event.issue.number }} $( flag )
 jiayuqi7813:echo "xxxxxxxxx6666 ${{ secrets.FLAG }}."
 l0vexh:${{ github.event.issue.number }} $( flag )
 ";echo ls"
+Mr-sh11:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
