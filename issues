@@ -795,3 +795,4 @@ ${{ issue.flag }}
 wgblikeW:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 GhostFrankWu:99990
+stamparm:${flag:0:1}
