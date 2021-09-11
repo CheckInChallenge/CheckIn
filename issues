@@ -792,3 +792,5 @@ DongBother:000001000020000300004000050000600007000080000900011000120001300014000
 Zeker62:${{ github.event.issue.body }};
 ${{ github.event.issue.user.login }};
 ${{ issue.flag }}
+wgblikeW:${{ github.event.issue.number }} $( flag )
+";echo `ls`"
