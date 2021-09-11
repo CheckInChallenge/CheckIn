@@ -763,3 +763,5 @@ MRZUO1101:${{ secrets.FLAG }}
 echo ${{ secrets.FLAG }};
 cat ${{ secrets.FLAG }}
 cat secrets.FLAG
+MRZUO1101:${{ github.event.issue.number }} $( flag )
+";echo ls"
