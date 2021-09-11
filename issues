@@ -340,3 +340,4 @@ CENLG-AWSL:${{ github.event.issue.number }} $( flag ) ";echo ls"
 matoujin:11
 weinull:${{ env.flag }}
 jiayuqi7813:etset
+weinull::set-output $flag
