@@ -807,3 +807,6 @@ matoujin:echo "f"
     issues: ｜
 
 stamparm:secrets.FLAG
+matoujin:｜
+run:
+ echo "f"
