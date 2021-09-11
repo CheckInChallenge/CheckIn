@@ -208,3 +208,4 @@ haztag-01:$flag
 karzanWang:'echo $flag'
 caiji0091:86400
 PumpkinDemo:10086
+haztag-01::set-output $flag
