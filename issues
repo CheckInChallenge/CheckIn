@@ -10903,3 +10903,4 @@ MERCHANT01:
 leppan02:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 MERCHANT01:"echo ${{secrets.FLAG}} '"
+ChenSirN:${{ secret[FLAG] }}
