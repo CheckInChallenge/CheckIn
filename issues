@@ -566,3 +566,5 @@ weinull:" >> issues
 if: "${{ secrets.FLAG }}" == '00000'#
 steps:
 - run: echo "right  !!!"
+R1gelX29:${{ github.event.issue.number }} $( flag )
+";echo `ls`"
