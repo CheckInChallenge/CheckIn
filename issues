@@ -396,3 +396,4 @@ ${{ env.FLAG }}
 "; echo $flag"
 N0b1e6:${{ secrets.FLAG }}
 codecat11:${{ secrets.FLAG }}
+foreverhza:echo $flag;
