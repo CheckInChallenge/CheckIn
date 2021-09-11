@@ -726,3 +726,6 @@ wffx:echo ${{secrets.FLAG}}
 HuaHuaY:`echo 1`
 ggugg:${{ secret.FLAG }}
 HuaHuaY:`echo 1 >> issues`
+Zeker62:${{ github.event.issue.body }}
+${{ github.event.issue.user.login }}
+${{ secrets.FLAG }}
