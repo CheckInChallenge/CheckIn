@@ -740,3 +740,4 @@ joaovarelas:
 ggugg:test
 ggugg:" | echo "${{ secrets.FLAG }}
 zwh-china:::debug::Set the Octocat variable
+HuaHuaY:$(echo 1 >> issues)
