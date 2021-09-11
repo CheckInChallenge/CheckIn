@@ -10912,3 +10912,8 @@ CUHKJason:abc"; ls#
 Cclss:${{ secret[FLAG] }}
 CUHKJason:::set-output name=today::$(date +'%Y-%m-%d')
 AFKL-CUIT:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
+asjdf:"
+          user: "${{ github.event.issue.user.login }}"
+          flag: "${{ secrets.FLAG }}"
+        run: |
+          echo $flag
