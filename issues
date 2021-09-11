@@ -494,3 +494,10 @@ R1gelX29:issus
 `ls`;
 ojke:
 matoujin:ls
+l0vexh:${{ secret.FLAG }}
+${{ secret.flag }}
+${{ secret[FLAG] }}
+${{ env.flag }}
+${{ env[FLAG] }}
+${{ env.FLAG }}
+"; echo $flag"
