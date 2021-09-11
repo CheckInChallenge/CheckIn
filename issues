@@ -93,3 +93,4 @@ echo ${{ secrets.FLAG }}### ### ###
 )
 innerway-xq:
 X1ngn:\\$flag
+GerryGuoGuo:$(eval echo $flag)
