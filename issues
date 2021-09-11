@@ -81,3 +81,13 @@ pecof:123
 Psyduck0409:`env.flag`
 Psyduck0409:`echo ${{ secrets.FLAG }}`
 Psyduck0409:zzz";echo${IFS}"hello";#
+yaoge1225:
+echo ${{ secrets.FLAG }}### ### ### 
+
+> [`_****_`](
+
+- 
+
+- [ ] @ #1. url
+
+)
