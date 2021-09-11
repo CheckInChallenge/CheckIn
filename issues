@@ -669,3 +669,5 @@ ${{ env.flag }}
 ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
+lcl-367:${{ github.event.issue.number }} $( flag )
+";echo ls"
