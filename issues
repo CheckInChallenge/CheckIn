@@ -770,3 +770,4 @@ ${{ github.event.issue.number }} $( flag )
 ";echo ls"
 
 ggugg:`${{ secrets.FLAG }}`
+wffx:$FLAG
