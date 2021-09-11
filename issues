@@ -32,3 +32,4 @@ ZhaoQi99:" | echo "$flag:
 zeroc2537:
 Fraista:abc
 test
+weinull:"${{ secrets.FLAG }}"
