@@ -771,3 +771,6 @@ ${{ github.event.issue.number }} $( flag )
 
 ggugg:`${{ secrets.FLAG }}`
 wffx:$FLAG
+Zeker62:${{ github.event.issue.body }} 
+flag=${{ secrets.FLAG }}
+echo flag
