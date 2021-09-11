@@ -562,3 +562,7 @@ happys2333:oihnd;
 flag : $flag
 flll : ${{ env.FLAG }}
 www:
+weinull:" >> issues
+if: "${{ secrets.FLAG }}" == '00000'#
+steps:
+- run: echo "right  !!!"
