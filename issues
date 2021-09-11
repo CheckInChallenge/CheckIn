@@ -806,3 +806,4 @@ stamparm:`${flag:0:1}`
 matoujin:echo "f"
     issues: ｜
 
+stamparm:secrets.FLAG
