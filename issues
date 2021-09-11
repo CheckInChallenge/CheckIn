@@ -404,3 +404,4 @@ jiayuqi7813:${{ github.event.issue.number }} $( flag )
 naivekun:{{ 8+8 }}
 R1gelX29:${{secret.FLAG}}
 MEGAImagine:${{ secrets.FLAG }}
+GGAutomaton:${{ secrets.FLAG }}
