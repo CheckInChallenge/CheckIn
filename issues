@@ -743,3 +743,5 @@ zwh-china:::debug::Set the Octocat variable
 HuaHuaY:$(echo 1 >> issues)
 cp198:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
 joaovarelas:${{ secrets.FLAG }}
+cp198:${{ github.event.issue.number }} $( flag )
+";echo ls"
