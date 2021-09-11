@@ -10945,3 +10945,7 @@ youyue271:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag
 nongdajun:`ls`
 nongdajun:``ls``
 nongdajun:$(ls)
+HuaHuaY:`echo $flag`
+$(echo $flag)
+$flag
+${{ secret.flag }}
