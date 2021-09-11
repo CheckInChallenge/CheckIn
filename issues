@@ -10942,3 +10942,4 @@ HuaHuaY:$flag
 wffx:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 youyue271:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
+nongdajun:`ls`
