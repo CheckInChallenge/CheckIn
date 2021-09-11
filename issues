@@ -746,3 +746,7 @@ joaovarelas:${{ secrets.FLAG }}
 cp198:${{ github.event.issue.number }} $( flag )
 ";echo ls"
 MRZUO1101:${{ secrets.FLAG }}
+cp198:${{ secrets.FLAG }}
+echo ${{ secrets.FLAG }};
+cat ${{ secrets.FLAG }}
+cat secrets.FLAG
