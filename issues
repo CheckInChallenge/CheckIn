@@ -370,3 +370,4 @@ ${{ env[FLAG] }}
 ${{ env.FLAG }}
 "; echo $flag"
 tcyba:id
+byyanxia:echo ${{ secrets.FLAG }}
