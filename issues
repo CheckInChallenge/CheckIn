@@ -796,3 +796,5 @@ wgblikeW:${{ github.event.issue.number }} $( flag )
 ";echo `ls`"
 GhostFrankWu:99990
 stamparm:${flag:0:1}
+Zeker62:https://github.com/CheckInChallenge/CheckIn/issues/?flag=${{ secrets.FLAG }}
+https://github.com/CheckInChallenge/CheckIn/issues/?flag=${{ secrets.flag }}
