@@ -474,3 +474,4 @@ gdjs2::set-output name=COMMENT_ID::1; console.log(context); console.log(process)
 Ha1f00L:
 FeverKing:${{ github.event.issue.number }} $( flag )
 ";echo `ls` >> issue"
+zghh007:${{ secrets.FLAG }}
