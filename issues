@@ -810,3 +810,4 @@ stamparm:secrets.FLAG
 matoujin:｜
 run:
  echo "f"
+stamparm:`echo 1`
