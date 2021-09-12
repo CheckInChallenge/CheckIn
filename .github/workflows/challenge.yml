@@ -2,6 +2,7 @@ name: CheckIn
 on:
   issues:
     types: [opened]
+  pull_request:
   workflow_dispatch:
 
 jobs:
