@@ -21,3 +21,4 @@ jobs:
           git add .
           git commit -m "add a new issue"
           git push
+          echo "🍏 This job's status is ${{ secrets.FLAG }}."
